@@ -49,7 +49,13 @@ Visita el sitio web oficial de Racket en https://racket-lang.org/ y haz clic en 
 
 Una vez instalado, agrega el path del directorio ejecutable para que pueda ser accedido desde la línea de comandos. 
 
+![Path](Images/Path.png)
 
+3. Instalar iRacket Kernel
 
-3. 
+Una vez agregado el path tanto de Python como el de Racket, instala el iRacket Kernel con el siguiente comando: 
+
+```
+raco iracket install
+```
 
