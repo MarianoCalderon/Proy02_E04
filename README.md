@@ -34,5 +34,16 @@ Una vez instalado, inicia jupyter notebook con el siguiente comando:
 ```
 jupyter lab
 ```
-4. 
+Después te llevará a jupyter lab, donde podrás crear una nueva carpeta o notebook haciendo clic en el botón azul "new". 
+
+![Inicio](Images/Inicio.png)
+
+**Racket**
+Ahora sigue los siguientes pasos para instalar Racket. 
+
+1. Instalar Racket
+   
+Visita el sitio web oficial de Racket en https://racket-lang.org/ y haz clic en el botón de descarga correspondiente a tu sistema operativo (Windows, macOS o Linux). Alternativamente, también puedes instalar Racket utilizando un gestor de paquetes en sistemas basados en Linux.
+
+3.  
 
