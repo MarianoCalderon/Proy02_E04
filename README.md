@@ -45,5 +45,11 @@ Ahora sigue los siguientes pasos para instalar Racket.
    
 Visita el sitio web oficial de Racket en https://racket-lang.org/ y haz clic en el botón de descarga correspondiente a tu sistema operativo (Windows, macOS o Linux). Alternativamente, también puedes instalar Racket utilizando un gestor de paquetes en sistemas basados en Linux.
 
-3.  
+2. Agregar Path
+
+Una vez instalado, agrega el path del directorio ejecutable para que pueda ser accedido desde la línea de comandos. 
+
+
+
+3. 
 
