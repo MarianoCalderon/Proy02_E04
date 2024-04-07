@@ -63,7 +63,7 @@ raco iracket install
 
 Una vez realizados los pasos anteriores sigue los siguientes pasos para abrir el notebook de Programación funcional: 
 
-1. Descargar el notebook[Programacion Funcional](ProgramaciónFuncional.ipynb)
+1. Descargar el notebook [Programacion Funcional](ProgramaciónFuncional.ipynb)
 2. Abrir Jupyter Lab desde la terminal, con el comando proporcionado en la sección anterior.
 3. Haz clic en el botón "upload" y selecciona el el archivo descargado en el paso 1.
 
