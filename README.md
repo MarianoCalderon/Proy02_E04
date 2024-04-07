@@ -10,7 +10,7 @@ Equipo: 04
 
 Para esta actividad, el equipo implementó la solución de 10 ejercios de programación funcional utilizando el lenguaje Racket y la herramienta de de Jupyter Notebook junto con el kernel iRacket. A continuación se presenta la información necesaria para la instalación y configuración del notebook al igual que las instrucciones para la ejecución de los ejercicios. 
 
-## Instalación 
+## Instalación y Configuración
 Para este proyecto es necesario contar con Jupyter Notebook y Racket, sigue los siguientes pasos en dado caso no tener estas herramientas instaladas. 
 
 **Jupyter Notebook**
@@ -58,4 +58,16 @@ Una vez agregado el path tanto de Python como el de Racket, instala el iRacket K
 ```
 raco iracket install
 ```
+
+**Abirir el Notebook** 
+
+Una vez realizados los pasos anteriores sigue los siguientes pasos para abrir el notebook de Programación funcional: 
+
+1. Descargar el notebook[Programacion Funcional](Programación Funcional.ipynb)
+2. Abrir Jupyter Lab desde la terminal, con el comando proporcionado en la sección anterior.
+3. Haz clic en el botón "upload" y selecciona el el archivo descargado en el paso 1.
+
+   ![upload](Images/Upload.png)
+
+4. Explorar el notebook. 
 
