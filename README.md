@@ -1,4 +1,4 @@
-# Manual de Usuario 📓:
+# Manual de Usuario 📓
 Proyecto 02: Programación Funcional | TLP 
 
 Equipo: 04 
