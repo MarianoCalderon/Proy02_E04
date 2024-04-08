@@ -8,10 +8,10 @@ Equipo: 04
 - Ceballos Pérez Andrea | 19203419
 - Kuh Esquivel Mauro Arif | 19200637
 
-Para esta actividad, el equipo implementó la solución de 10 ejercios de programación funcional utilizando el lenguaje Racket y la herramienta de de Jupyter Notebook junto con el kernel iRacket. A continuación se presenta la información necesaria para la instalación y configuración del notebook al igual que las instrucciones para la ejecución de los ejercicios. 
+Para esta actividad, el equipo implementó la solución de 10 ejercios de programación funcional utilizando el lenguaje Racket y la herramienta de Jupyter Notebook junto con el kernel iRacket. A continuación, se presenta la información necesaria para la instalación y configuración del notebook al igual que las instrucciones para la ejecución de los ejercicios. 
 
 ## Instalación y Configuración
-Para este proyecto es necesario contar con Jupyter Notebook y Racket, sigue los siguientes pasos en dado caso no tener estas herramientas instaladas. 
+Para este proyecto es necesario contar con Jupyter Notebook y Racket, sigue los siguientes pasos en dado caso de no tener estas herramientas instaladas. 
 
 **Jupyter Notebook**
 
@@ -90,4 +90,4 @@ Una vez abierto el notebook, dentro de él encontrarás un total de 10 ejercicio
 
 ## Conclusión 
 
-Gracias al proyecto que se llevó a cabo el equipo logró desarrollar nuevas habilidades en cuanto al uso del Racket, la programación funcional y la recursivad. Del mismo modo, se logró entender la importancia que tiene la programación funcional como paradigma de programación. 
+Gracias al proyecto que se llevó a cabo el equipo logró desarrollar nuevas habilidades en cuanto al uso de Racket, la programación funcional y la recursividad. Del mismo modo, se logró entender la importancia que tiene la programación funcional como paradigma de programación. 
