@@ -39,6 +39,7 @@ Después te llevará a jupyter lab, donde podrás crear una nueva carpeta o note
 ![Inicio](Images/Inicio.png)
 
 **Racket**
+
 Ahora sigue los siguientes pasos para instalar Racket. 
 
 1. Instalar Racket
