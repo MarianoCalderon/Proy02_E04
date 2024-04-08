@@ -71,3 +71,7 @@ Una vez realizados los pasos anteriores sigue los siguientes pasos para abrir el
 
 4. Explorar el notebook. 
 
+
+## Ejecucuión de los Ejercicios 
+
+## Conclusión 
