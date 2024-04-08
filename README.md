@@ -76,6 +76,17 @@ Una vez realizados los pasos anteriores sigue los siguientes pasos para abrir el
 Una vez abierto el notebook, dentro de él encontrarás un total de 10 ejercicios, cada uno con su descripción, código, valores de entrada y salida esperados y una sección donde se podrá modificar los valores de entrada para probar la función. Para ejecutar cada uno de los ejercicios sigue los siguientes pasos: 
 
 1. Seleccionar la sección con el código correspondiente.
-   ![Ejecución1]()
+2. Hacer clic en el botón correr (señalado con rojo en la siguiente imagen). 
+   
+   ![Ejecución1](Images/Ejecución1.png)
+
+3. Seleccionar la sección donde se llama a la función y si desea, modifica los valores de entrada.
+4. Hacer clic en el botón correr.
+5. Observar el valor de salida (en la imagen es 10).
+
+   ![Ejecucion2](Images/Ejecución2.png)
+
 
 ## Conclusión 
+
+Gracias al proyecto que se llevó a cabo el equipo logró desarrollar nuevas habilidades en cuanto al uso del Racket, la programación funcional y la recursivad. Del mismo modo, se logró entender la importancia que tiene la programación funcional como paradigma de programación. 
