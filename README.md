@@ -21,7 +21,7 @@ Jupyter Notebook se ejecuta en Python, así que necesitarás tener Python instal
 
 2. Instalar Jupyter Notebook
 
-Una vez que tengas Python, puedes instalar Jupyter Notebook ejecutando el siguiente comando en tu terminal o línea de comandos(este comando instalará Jupyter Notebook junto con JupyterLab):
+Una vez que tengas Python, puedes instalar Jupyter Notebook ejecutando el siguiente comando en tu terminal o línea de comandos (este comando instalará Jupyter Notebook junto con JupyterLab):
 
 ```
 pip install jupyterlab
