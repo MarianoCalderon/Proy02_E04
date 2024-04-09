@@ -73,7 +73,7 @@ Una vez realizados los pasos anteriores sigue los siguientes pasos para abrir el
 4. Explorar el notebook. 
 
 
-## Ejecucuión de los Ejercicios 
+## Ejecuión de los Ejercicios 
 Una vez abierto el notebook, dentro de él encontrarás un total de 10 ejercicios, cada uno con su descripción, código, valores de entrada y salida esperados y una sección donde se podrá modificar los valores de entrada para probar la función. Para ejecutar cada uno de los ejercicios sigue los siguientes pasos: 
 
 1. Seleccionar la sección con el código correspondiente.
